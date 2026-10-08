@@ -1,4 +1,5 @@
-# SecToolkit (Bash)
+# ## Tool Name
+SecToolkit (Bash): Log Analyzer + File Integrity Checker
 
 ## Objective
 A single Bash tool with two modes that automate common Linux security tasks:

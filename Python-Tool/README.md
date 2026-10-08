@@ -1,4 +1,5 @@
-# SecTool (Python)
+## Tool Name
+SecTool (Python): Password Generator + Security Report Generator
 
 ## Objective
 A single Python tool with two modes: a secure password generator and a
